@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <title>自定义样式信息窗体</title>
+    <link rel="stylesheet" href="http://cache.amap.com/lbs/static/main1119.css"/>
+    <script type="text/javascript"
+            src="http://webapi.amap.com/maps?v=1.4.6&key=您申请的key值"></script>
+</head>
+<body>
+<div id="container"></div>
+<script type="text/javascript">
+	var map = new AMap.Map("container",{
+		resizeEnable:true,
+		center: [120.42552,33.316099]//地图中心位置
+	});
+	
+	var marker = new AMap.Marker({
+		map:map,
+		position: [120.32552,33.116099]//点所在位置
+	});
+
+	var marker1 = new AMap.Marker({
+		map:map,
+		position: [120.31552,33.156099]//点所在位置
+	});
+	//创建信息窗体
+	var infoWindow = new AMap.InfoWindow({
+		content:"<div>信息窗体内容1</div><img src='../assets/logo_nav.png' style='width:150;height:30px'><div>信息窗体内容3</div>"//信息窗体的内容
+	});
+
+	var infoWindow1 = new AMap.InfoWindow({
+		content:"测试地点"//信息窗体的内容
+	});
+	
+	//如果希望的是点击标记才 出现这个信息窗口，那把 下面的注释去掉即可
+	AMap.event.addListener(marker,'click',function(){ //监听点标记的点击事件
+		infoWindow.open(map,marker.getPosition()); //信息窗体打开
+	});
+	AMap.event.addListener(marker1,'click',function(){ //监听点标记的点击事件
+		infoWindow1.open(map,marker1.getPosition()); //信息窗体打开
+	});
+</script>
+	</body>
+</html>

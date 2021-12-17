@@ -1,0 +1,1955 @@
+
+{
+    "objectList":[
+        {
+            "id":19,
+            "data":{
+                "name":"南参漾",
+                "objDesc":"南参漾位于松陵镇和黎里镇。南参荡东通怀（外）蒲（步）荡和廊庙荡，西连八坼的何家漾、长白荡，北接同里及金家坝的石头潭。湖泊面积1.35km2，湖泊周长8323m，湖泊容积300万/m3，平均水深2.22m，常水位2.85m，设计洪水位4.32m，湖底平均高程0.66m。",
+                "score":80.33,
+                "management":"王燕红",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":71.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":91.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":70.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":85.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":17,
+            "data":{
+                "name":"何家漾",
+                "objDesc":"何家漾位于太湖新城松陵镇东南端，与南参漾相连通。何家漾形如“漏斗”状，周边被化成、联民、中南、草甸4联圩包围。湖泊面积0.6km2，湖泊周长3951m，湖泊容积148万/m3，平均水深2.47m，常水位2.88m，设计洪水位4.39m，湖底平均高程0.41m。",
+                "score":83.25,
+                "management":"王燕红",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":12,
+            "data":{
+                "name":"大德塘",
+                "objDesc":"大德塘又名西塘河、后练塘，流经桃源、震泽镇。南接严墓市河，北与頔塘相通，流向不定。严墓塘位于桃源镇。西北接大德塘，东南与澜溪相通。大德塘全长9km，平均河面宽18m，河底宽30m。严墓塘全长2.5km，河底宽30m，河底高程0m，边坡1︰2。",
+                "score":78.89,
+                "management":"汤卫明",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":16,
+            "data":{
+                "name":"风仙荡",
+                "objDesc":"凤仙荡又名凤仙庵荡，因当地曾有座凤仙庵而名，位于黎里镇西北。凤仙荡西连前村荡，北接长畸荡，南与太浦河相通。周边有饿煞港、百步桥港、水车港、滑沿路港等河道。凤仙荡面积0.65km2，周长5528m。湖底平均高程0.04m，最低高程-0.81m。湖泊正常蓄水位2.88m，库容185万m3。",
+                "score":76.67,
+                "management":"刘伟",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":18,
+            "data":{
+                "name":"麻溪",
+                "objDesc":"麻溪又称清溪河,流经盛泽镇、桃源镇，为Ⅶ级航道，西起大德塘，中途经过澜溪塘，向东汇入京杭运河.全长20km，平均河面宽50m，河底宽20m，河底高程-0.5m 。",
+                "score":92.11,
+                "management":"范建龙",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":20,
+            "data":{
+                "name":"前村荡",
+                "objDesc":"前村荡因自然村落名字而名，内含汪家圩，位于平望、黎里镇交界处。前村荡西连凤凰荡，东临风仙庵荡，北通张鸭荡，南通太浦河。前村荡面积0.81km2，周长5430m。湖底平均高程0.69m，最低高程0.1m。湖泊正常蓄水位2.88m，库容177万m3。",
+                "score":95.59,
+                "management":"刘伟",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":21,
+            "data":{
+                "name":"清溪塘",
+                "objDesc":"清溪河[ 麻溪又称清溪河，本文只涉及吴江区境内的清溪河段]流经盛泽镇、桃源镇，为Ⅶ级航道，西起大德塘，中途经过澜溪塘，向东汇入京杭运河。全长20km，平均河面宽50m，河底宽20m，河底高程-0.5m 。",
+                "score":83.83,
+                "management":"范建龙",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":22,
+            "data":{
+                "name":"三船路港",
+                "objDesc":"船路港位于松陵镇境内，西接太湖之水，东连江南运河。全长6.7km，河底高程1.4m，河底宽25m。",
+                "score":69.8,
+                "management":"戚振宇",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":23,
+            "data":{
+                "name":"苏嘉运河",
+                "objDesc":"江南运河苏州段途径苏州市相城区、高新区、姑苏区、吴中区、吴江区，是苏州市经济、政治、文化中心，沿线保护对象以城区为主。吴江段北接吴中区，南连江浙交界的王江泾，全长41km，贯穿全区南北，流经吴江开发区（同里镇）、太湖新城（松陵镇）、平望镇、吴江高新区（盛泽镇）。本次吴江区段运河“一河一策”的实施范围为太浦河以南至江浙两省交界处的王江泾(以下统称古运河)，全长约15.3km（其中黎经港至麻溪共9.3km，西岸属吴江，东岸属浙江省嘉兴市），流经吴江平望镇、吴江高新区（盛泽镇）。",
+                "score":72.12,
+                "management":"沈国芳",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":24,
+            "data":{
+                "name":"杨家荡",
+                "objDesc":"杨家荡位于黎里、平望2镇交界。杨家荡西接六里厍，东连牛头湖，北通太浦河。入湖河道为六里厍河，出湖河道为东阳港和西厍浜。湖泊面积0.67km2，岸线长度4.404km，湖底平均高程1.11m，最低高程-0.32m，平均水深1.79m，常水位2.9m，设计洪水位4.25m，湖泊容积120万m3。",
+                "score":88.56,
+                "management":"戚振宇",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":25,
+            "data":{
+                "name":"莺短湖",
+                "objDesc":"莺脰湖位于吴江区平望镇南，莺脰湖是杭嘉湖地区来水的重要集散地，頔塘自西，澜溪自西南，运河自东南，俱注入该湖，出水由运河向北、翁沙路向东北泄入太浦河。京杭运河在其东北侧穿湖而过。莺脰湖面积2.11km2，周长8.592km。湖底平均高程▽0.89m，平均淤积厚度为0.69m。常水位▽2.95m，设计洪水位为▽4.28m，容积为435万m3。",
+                "score":70.58,
+                "management":"周春良",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":26,
+            "data":{
+                "name":"元荡",
+                "objDesc":"-",
+                "score":87.78,
+                "management":"-",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":27,
+            "data":{
+                "name":"张鸭荡",
+                "objDesc":"张鸭荡位于黎里、平望和松陵三镇交界处。张鸭荡面积1.86km2，周长8165m。湖底平均高程1.05m，最低高程-0.3m。湖泊正常蓄水位2.88m，库容340万m3。",
+                "score":92.58,
+                "management":"刘伟",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":28,
+            "data":{
+                "name":"长荡",
+                "objDesc":"长荡位于平望、震泽、七都、横扇四镇交界处，长荡处太浦河、頔塘之间，西与荡白荡相接，南与頔塘沟通，东流雪落漾入太浦河。长荡面积1.53km2，周长8.51km。湖底平均高程▽0.07m，最低高程▽-0.92m，平均淤积厚度0.35m，。湖泊常水位▽2.89m，设计洪水位▽4.3m，库容431.5万m³。",
+                "score":79.85,
+                "management":"周春良",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id":29,
+            "data":{
+                "name":"长畸荡",
+                "objDesc":"长畸荡又名长巨荡，位于松陵镇、黎里镇交界处。长畸荡呈东南至西北走向，纵向狭长，中间细窄，两头弯曲，形状长而畸形。湖泊面积1.89km2，周长13404m。湖底平均高程0.8m，最低高程-0.35m。湖泊正常蓄水位2.88m，库容393万m3。",
+                "score":81.85,
+                "management":"刘伟",
+                "categoryList":[
+                    {
+                        "name":"生态健康",
+                        "score":80.63
+                    },
+                    {
+                        "name":"服务功能",
+                        "score":81.96
+                    },
+                    {
+                        "name":"干扰程度",
+                        "score":75.5
+                    },
+                    {
+                        "name":"管理水平",
+                        "score":75.2
+                    }
+                ],
+                "publicSatisfactionScore":92.25,
+                "publicSatisfactionList":[62,30,28,5,5],
+                "evaluationClassification":[
+                    {
+                        "target":"服务功能",
+                        "num":14
+                    },
+                    {
+                        "target":"生态健康",
+                        "num":9
+                    },
+                    {
+                        "target":"干扰程度",
+                        "num":7
+                    },
+                    {
+                        "target":"管理水平",
+                        "num":3
+                    }
+                ],
+                "waterQualityMonitoring":[8.08, 8.10, 3.88, 2.26, 0.34, 0.14],
+                "targetDetails":[
+                    {
+                        "target": "岸坡稳定性",
+                        "score": 92
+                    },
+                    {
+                        "target": "岸坡植被覆盖度",
+                        "score": 63.85
+                    },
+                    {
+                        "target": "河流流动性",
+                        "score": 40.84
+                    },
+                    {
+                        "target": "生态用水满足程度",
+                        "score": 100
+                    },
+                    {
+                        "target": "水质优劣程度",
+                        "score": 84.6
+                    },
+                    {
+                        "target": "底泥污染状况-污染指数",
+                        "score": 0.52 
+                    },
+                    {
+                        "target": "底栖生物指数-OI指数",
+                        "score": 0.03
+                    },
+                    {
+                        "target": "浮游植物生物指数",
+                        "score": 0.77
+                    },
+                    {
+                        "target": "着生藻类生物指数",
+                        "score": 1.73
+                    },
+                    {
+                        "target": "防洪达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "水功能区达标率",
+                        "score": 100
+                    },
+                    {
+                        "target": "供水水量保证率",
+                        "score": 100
+                    },
+                    {
+                        "target": "景观舒适度",
+                        "score": 60
+                    },
+                    {
+                        "target": "公众满意度",
+                        "score": 79.8
+                    },
+                    {
+                        "target": "岸线开发利用率",
+                        "score": 49
+                    },
+                    {
+                        "target": "入河排污口规范化建设率",
+                        "score": 100
+                    },
+                    {
+                        "target": "管理（保护）范围划定率",
+                        "score": 100
+                    },
+                    {
+                        "target": "岸坡环境整治程度",
+                        "score": 87
+                    },
+                    {
+                        "target": "水体整洁程度",
+                        "score": 94
+                    },
+                    {
+                        "target": "生态岸坡比例",
+                        "score": 45
+                    }
+                ]
+            }
+        }
+    ]
+}
