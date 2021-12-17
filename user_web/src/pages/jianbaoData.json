@@ -1,0 +1,1066 @@
+{
+    "code": 0,
+    "data": {
+        "asdList": [
+            {
+                "assessSchemeId": 1,
+                "funResult": 63.85,
+                "guidelinesTargetId": 5,
+                "guidelinesTargetName": "岸坡植被覆盖度",
+                "guidelinesTargetScoreId": 2,
+                "id": 1,
+                "score": 65.13,
+                "scoreDesc": "亚健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 56,
+                "guidelinesTargetId": 7,
+                "guidelinesTargetName": "河流流动性",
+                "guidelinesTargetScoreId": 3,
+                "id": 2,
+                "score": 56,
+                "scoreDesc": "不健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 100,
+                "guidelinesTargetId": 8,
+                "guidelinesTargetName": "生态用水满足程度",
+                "guidelinesTargetScoreId": 4,
+                "id": 3,
+                "score": 100,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 0.52,
+                "guidelinesTargetId": 11,
+                "guidelinesTargetName": "底泥污染状况",
+                "guidelinesTargetScoreId": 6,
+                "id": 4,
+                "score": 89.6,
+                "scoreDesc": "健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 84,
+                "guidelinesTargetId": 10,
+                "guidelinesTargetName": "水质优劣程度",
+                "guidelinesTargetScoreId": 5,
+                "id": 5,
+                "score": 86,
+                "scoreDesc": "健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 1.54,
+                "guidelinesTargetId": 13,
+                "guidelinesTargetName": "底栖生物指数",
+                "guidelinesTargetScoreId": 8,
+                "id": 6,
+                "score": 50.8,
+                "scoreDesc": "不健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 0.77,
+                "guidelinesTargetId": 14,
+                "guidelinesTargetName": "浮游植物生物指数",
+                "guidelinesTargetScoreId": 10,
+                "id": 7,
+                "score": 30.8,
+                "scoreDesc": "病态"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 1.73,
+                "guidelinesTargetId": 15,
+                "guidelinesTargetName": "着生藻类生物指数",
+                "guidelinesTargetScoreId": 11,
+                "id": 8,
+                "score": 54.6,
+                "scoreDesc": "不健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 100,
+                "guidelinesTargetId": 18,
+                "guidelinesTargetName": "防洪达标率",
+                "guidelinesTargetScoreId": 12,
+                "id": 9,
+                "score": 100,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 100,
+                "guidelinesTargetId": 20,
+                "guidelinesTargetName": "水功能区达标率",
+                "guidelinesTargetScoreId": 13,
+                "id": 10,
+                "score": 100,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 100,
+                "guidelinesTargetId": 21,
+                "guidelinesTargetName": "供水水质量保证率",
+                "guidelinesTargetScoreId": 14,
+                "id": 11,
+                "score": 100,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 60,
+                "guidelinesTargetId": 24,
+                "guidelinesTargetName": "景观舒适度",
+                "guidelinesTargetScoreId": 16,
+                "id": 12,
+                "score": 60,
+                "scoreDesc": "亚健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 79.8,
+                "guidelinesTargetId": 26,
+                "guidelinesTargetName": "公众满意度",
+                "guidelinesTargetScoreId": 17,
+                "id": 13,
+                "score": 79.8,
+                "scoreDesc": "亚健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 49,
+                "guidelinesTargetId": 29,
+                "guidelinesTargetName": "岸线开发利用率",
+                "guidelinesTargetScoreId": 18,
+                "id": 14,
+                "score": 41,
+                "scoreDesc": "不健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 100,
+                "guidelinesTargetId": 31,
+                "guidelinesTargetName": "入河排污口规范化建设",
+                "guidelinesTargetScoreId": 19,
+                "id": 15,
+                "score": 100,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 100,
+                "guidelinesTargetId": 34,
+                "guidelinesTargetName": "管理（保护）范围划定率",
+                "guidelinesTargetScoreId": 20,
+                "id": 16,
+                "score": 100,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 87,
+                "guidelinesTargetId": 36,
+                "guidelinesTargetName": "岸坡环境整治程度",
+                "guidelinesTargetScoreId": 21,
+                "id": 17,
+                "score": 87,
+                "scoreDesc": "健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 94,
+                "guidelinesTargetId": 37,
+                "guidelinesTargetName": "水体整洁程度",
+                "guidelinesTargetScoreId": 22,
+                "id": 18,
+                "score": 94,
+                "scoreDesc": "非常健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 45,
+                "guidelinesTargetId": 39,
+                "guidelinesTargetName": "生态岸坡比例",
+                "guidelinesTargetScoreId": 23,
+                "id": 19,
+                "score": 45,
+                "scoreDesc": "不健康"
+            },
+            {
+                "assessSchemeId": 1,
+                "funResult": 92,
+                "guidelinesTargetId": 4,
+                "guidelinesTargetName": "岸坡稳定性",
+                "guidelinesTargetScoreId": 1,
+                "id": 20,
+                "score": 87,
+                "scoreDesc": "健康"
+            }
+        ],
+        "assessSchemaId": 1,
+        "objName": "牛长泾",
+        "resultTable": {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D1",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 4,
+                                    "layerDepth": 4,
+                                    "name": "岸坡稳定性",
+                                    "parentId": 3,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "87.00",
+                                            "scoreDesc": "健康",
+                                            "weightScore": "43.50"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,3",
+                                    "weight": "0.5"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D2",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 5,
+                                    "layerDepth": 4,
+                                    "name": "岸坡植被覆盖度",
+                                    "parentId": 3,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "65.13",
+                                            "scoreDesc": "亚健康",
+                                            "weightScore": "32.56"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,3",
+                                    "weight": "0.5"
+                                }
+                            ],
+                            "code": "C1",
+                            "finalNodeSize": 2,
+                            "guidelinesId": 4,
+                            "id": 3,
+                            "layerDepth": 3,
+                            "name": "形态健康",
+                            "parentId": 2,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "76.06",
+                                    "scoreDesc": "亚健康",
+                                    "weightScore": "15.21"
+                                }
+                            ],
+                            "superParentId": "1,2",
+                            "weight": "0.2"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D3",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 7,
+                                    "layerDepth": 4,
+                                    "name": "河流流动性",
+                                    "parentId": 6,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "56.00",
+                                            "scoreDesc": "不健康",
+                                            "weightScore": "28.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,6",
+                                    "weight": "0.5"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D4",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 8,
+                                    "layerDepth": 4,
+                                    "name": "生态用水满足程度",
+                                    "parentId": 6,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "50.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,6",
+                                    "weight": "0.5"
+                                }
+                            ],
+                            "code": "C2",
+                            "finalNodeSize": 2,
+                            "guidelinesId": 4,
+                            "id": 6,
+                            "layerDepth": 3,
+                            "name": "水文水资源",
+                            "parentId": 2,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "78.00",
+                                    "scoreDesc": "亚健康",
+                                    "weightScore": "15.60"
+                                }
+                            ],
+                            "superParentId": "1,2",
+                            "weight": "0.2"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D5",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 10,
+                                    "layerDepth": 4,
+                                    "name": "水质优劣程度",
+                                    "parentId": 9,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "86.00",
+                                            "scoreDesc": "健康",
+                                            "weightScore": "51.60"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,9",
+                                    "weight": "0.6"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D6",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 11,
+                                    "layerDepth": 4,
+                                    "name": "底泥污染状况",
+                                    "parentId": 9,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "89.60",
+                                            "scoreDesc": "健康",
+                                            "weightScore": "35.84"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,9",
+                                    "weight": "0.4"
+                                }
+                            ],
+                            "code": "C3",
+                            "finalNodeSize": 2,
+                            "guidelinesId": 4,
+                            "id": 9,
+                            "layerDepth": 3,
+                            "name": "水质",
+                            "parentId": 2,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "87.44",
+                                    "scoreDesc": "健康",
+                                    "weightScore": "26.23"
+                                }
+                            ],
+                            "superParentId": "1,2",
+                            "weight": "0.3"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D7",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 13,
+                                    "layerDepth": 4,
+                                    "name": "底栖生物指数",
+                                    "parentId": 12,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "50.80",
+                                            "scoreDesc": "不健康",
+                                            "weightScore": "20.32"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,12",
+                                    "weight": "0.4"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D8",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 14,
+                                    "layerDepth": 4,
+                                    "name": "浮游植物生物指数",
+                                    "parentId": 12,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "30.80",
+                                            "scoreDesc": "病态",
+                                            "weightScore": "9.24"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,12",
+                                    "weight": "0.3"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D9",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 15,
+                                    "layerDepth": 4,
+                                    "name": "着生藻类生物指数",
+                                    "parentId": 12,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "54.60",
+                                            "scoreDesc": "不健康",
+                                            "weightScore": "16.38"
+                                        }
+                                    ],
+                                    "superParentId": "1,2,12",
+                                    "weight": "0.3"
+                                }
+                            ],
+                            "code": "C4",
+                            "finalNodeSize": 3,
+                            "guidelinesId": 4,
+                            "id": 12,
+                            "layerDepth": 3,
+                            "name": "水生生物",
+                            "parentId": 2,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "45.94",
+                                    "scoreDesc": "不健康",
+                                    "weightScore": "13.78"
+                                }
+                            ],
+                            "superParentId": "1,2",
+                            "weight": "0.3"
+                        }
+                    ],
+                    "code": "B1",
+                    "finalNodeSize": 9,
+                    "guidelinesId": 4,
+                    "id": 2,
+                    "layerDepth": 2,
+                    "name": "生态健康",
+                    "parentId": 1,
+                    "rlType": 1,
+                    "score": [
+                        {
+                            "score": "70.83",
+                            "scoreDesc": "亚健康",
+                            "weightScore": "28.33"
+                        }
+                    ],
+                    "superParentId": "1",
+                    "weight": "0.4"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D10",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 18,
+                                    "layerDepth": 4,
+                                    "name": "防洪达标率",
+                                    "parentId": 17,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "100.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,16,17",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C5",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 17,
+                            "layerDepth": 3,
+                            "name": "防洪",
+                            "parentId": 16,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "100.00",
+                                    "scoreDesc": "非常健康",
+                                    "weightScore": "20.00"
+                                }
+                            ],
+                            "superParentId": "1,16",
+                            "weight": "0.2"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D11",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 20,
+                                    "layerDepth": 4,
+                                    "name": "水功能区达标率",
+                                    "parentId": 19,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "30.00"
+                                        },
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "50.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,16,19",
+                                    "weight": "0.3,0.5"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D12",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 21,
+                                    "layerDepth": 4,
+                                    "name": "供水水质量保证率",
+                                    "parentId": 19,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "30.00"
+                                        },
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "50.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,16,19",
+                                    "weight": "0.3,0.5"
+                                },
+                                {
+                                    "choice": false,
+                                    "code": "D13",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 22,
+                                    "layerDepth": 4,
+                                    "name": "饮用水源地水质达标率",
+                                    "parentId": 19,
+                                    "rlType": 1,
+                                    "superParentId": "1,16,19",
+                                    "weight": "0.4"
+                                }
+                            ],
+                            "code": "C6",
+                            "finalNodeSize": 3,
+                            "guidelinesId": 4,
+                            "id": 19,
+                            "layerDepth": 3,
+                            "name": "用水保障",
+                            "parentId": 16,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "100.00",
+                                    "scoreDesc": "非常健康",
+                                    "weightScore": "50.00"
+                                }
+                            ],
+                            "superParentId": "1,16",
+                            "weight": "0.5"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D14",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 24,
+                                    "layerDepth": 4,
+                                    "name": "景观舒适度",
+                                    "parentId": 23,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "60.00",
+                                            "scoreDesc": "亚健康",
+                                            "weightScore": "60.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,16,23",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C7",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 23,
+                            "layerDepth": 3,
+                            "name": "人文景观",
+                            "parentId": 16,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "60.00",
+                                    "scoreDesc": "亚健康",
+                                    "weightScore": "6.00"
+                                }
+                            ],
+                            "superParentId": "1,16",
+                            "weight": "0.1"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D15",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 26,
+                                    "layerDepth": 4,
+                                    "name": "公众满意度",
+                                    "parentId": 25,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "79.80",
+                                            "scoreDesc": "亚健康",
+                                            "weightScore": "79.80"
+                                        }
+                                    ],
+                                    "superParentId": "1,16,25",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C8",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 25,
+                            "layerDepth": 3,
+                            "name": "公众意愿",
+                            "parentId": 16,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "79.80",
+                                    "scoreDesc": "亚健康",
+                                    "weightScore": "15.96"
+                                }
+                            ],
+                            "superParentId": "1,16",
+                            "weight": "0.2"
+                        }
+                    ],
+                    "code": "B2",
+                    "finalNodeSize": 6,
+                    "guidelinesId": 4,
+                    "id": 16,
+                    "layerDepth": 2,
+                    "name": "服务功能",
+                    "parentId": 1,
+                    "rlType": 1,
+                    "score": [
+                        {
+                            "score": "91.96",
+                            "scoreDesc": "非常健康",
+                            "weightScore": "27.59"
+                        }
+                    ],
+                    "superParentId": "1",
+                    "weight": "0.3"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D16",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 29,
+                                    "layerDepth": 4,
+                                    "name": "岸线开发利用率",
+                                    "parentId": 28,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "41.00",
+                                            "scoreDesc": "不健康",
+                                            "weightScore": "41.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,27,28",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C9",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 28,
+                            "layerDepth": 3,
+                            "name": "开发利用",
+                            "parentId": 27,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "41.00",
+                                    "scoreDesc": "不健康",
+                                    "weightScore": "20.50"
+                                }
+                            ],
+                            "superParentId": "1,27",
+                            "weight": "0.5"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D17",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 31,
+                                    "layerDepth": 4,
+                                    "name": "入河排污口规范化建设",
+                                    "parentId": 30,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "100.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,27,30",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C10",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 30,
+                            "layerDepth": 3,
+                            "name": "水污染",
+                            "parentId": 27,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "100.00",
+                                    "scoreDesc": "非常健康",
+                                    "weightScore": "50.00"
+                                }
+                            ],
+                            "superParentId": "1,27",
+                            "weight": "0.5"
+                        }
+                    ],
+                    "code": "B3",
+                    "finalNodeSize": 2,
+                    "guidelinesId": 4,
+                    "id": 27,
+                    "layerDepth": 2,
+                    "name": "干扰程度",
+                    "parentId": 1,
+                    "rlType": 1,
+                    "score": [
+                        {
+                            "score": "70.50",
+                            "scoreDesc": "亚健康",
+                            "weightScore": "7.05"
+                        }
+                    ],
+                    "superParentId": "1",
+                    "weight": "0.1"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D18",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 34,
+                                    "layerDepth": 4,
+                                    "name": "管理（保护）范围划定率",
+                                    "parentId": 33,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "100.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "100.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,32,33",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C11",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 33,
+                            "layerDepth": 3,
+                            "name": "空间管控",
+                            "parentId": 32,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "100.00",
+                                    "scoreDesc": "非常健康",
+                                    "weightScore": "40.00"
+                                }
+                            ],
+                            "superParentId": "1,32",
+                            "weight": "0.4"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D19",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 36,
+                                    "layerDepth": 4,
+                                    "name": "岸坡环境整治程度",
+                                    "parentId": 35,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "87.00",
+                                            "scoreDesc": "健康",
+                                            "weightScore": "43.50"
+                                        }
+                                    ],
+                                    "superParentId": "1,32,35",
+                                    "weight": "0.5"
+                                },
+                                {
+                                    "choice": true,
+                                    "code": "D20",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 37,
+                                    "layerDepth": 4,
+                                    "name": "水体整洁程度",
+                                    "parentId": 35,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "94.00",
+                                            "scoreDesc": "非常健康",
+                                            "weightScore": "47.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,32,35",
+                                    "weight": "0.5"
+                                }
+                            ],
+                            "code": "C12",
+                            "finalNodeSize": 2,
+                            "guidelinesId": 4,
+                            "id": 35,
+                            "layerDepth": 3,
+                            "name": "环境治理",
+                            "parentId": 32,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "90.50",
+                                    "scoreDesc": "非常健康",
+                                    "weightScore": "36.20"
+                                }
+                            ],
+                            "superParentId": "1,32",
+                            "weight": "0.4"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "choice": true,
+                                    "code": "D21",
+                                    "finalNodeSize": 0,
+                                    "guidelinesId": 4,
+                                    "id": 39,
+                                    "layerDepth": 4,
+                                    "name": "生态岸坡比例",
+                                    "parentId": 38,
+                                    "rlType": 1,
+                                    "score": [
+                                        {
+                                            "score": "45.00",
+                                            "scoreDesc": "不健康",
+                                            "weightScore": "45.00"
+                                        }
+                                    ],
+                                    "superParentId": "1,32,38",
+                                    "weight": ""
+                                }
+                            ],
+                            "code": "C13",
+                            "finalNodeSize": 1,
+                            "guidelinesId": 4,
+                            "id": 38,
+                            "layerDepth": 3,
+                            "name": "生态修复",
+                            "parentId": 32,
+                            "rlType": 1,
+                            "score": [
+                                {
+                                    "score": "45.00",
+                                    "scoreDesc": "不健康",
+                                    "weightScore": "9.00"
+                                }
+                            ],
+                            "superParentId": "1,32",
+                            "weight": "0.2"
+                        }
+                    ],
+                    "code": "B4",
+                    "finalNodeSize": 4,
+                    "guidelinesId": 4,
+                    "id": 32,
+                    "layerDepth": 2,
+                    "name": "管理水平",
+                    "parentId": 1,
+                    "rlType": 1,
+                    "score": [
+                        {
+                            "score": "85.20",
+                            "scoreDesc": "健康",
+                            "weightScore": "17.04"
+                        }
+                    ],
+                    "superParentId": "1",
+                    "weight": "0.2"
+                }
+            ],
+            "code": "A",
+            "finalNodeSize": 21,
+            "guidelinesId": 4,
+            "id": 1,
+            "layerDepth": 1,
+            "name": "河流健康指数",
+            "rlType": 1,
+            "score": [
+                {
+                    "score": "80.01",
+                    "scoreDesc": "健康",
+                    "weightScore": "80.01"
+                }
+            ]
+        },
+        "sceneImage": [
+            "http://lupic.cdn.bcebos.com/20191203/3016757112_14.jpg",
+            "http://lupic.cdn.bcebos.com/20191203/3016757112_14.jpg"
+        ],
+        "score": 80.01,
+        "scoreDesc": "健康",
+        "simpleDesc": "西起.....",
+        "siteList": [
+            {
+                "id": 2,
+                "lat": 31.12172096,
+                "lon": 120.76798567,
+                "rlInfoId": 1,
+                "siteName": "牛长泾1号"
+            },
+            {
+                "id": 3,
+                "lat": 31.10010171,
+                "lon": 120.77588593,
+                "rlInfoId": 1,
+                "siteName": "牛长泾2号"
+            },
+            {
+                "id": 4,
+                "lat": 31.07620938,
+                "lon": 120.79897281,
+                "rlInfoId": 1,
+                "siteName": "牛长泾3号"
+            }
+        ],
+        "suggestionsList": [
+            {
+                "guidelinesId": 4,
+                "guidelinesTargetId": 7,
+                "guidelinesTargetScoreId": 3,
+                "id": 1,
+                "problem": "问题...",
+                "suggest": "建议..."
+            },
+            {
+                "guidelinesId": 4,
+                "guidelinesTargetId": 7,
+                "guidelinesTargetScoreId": 3,
+                "id": 1,
+                "problem": "问题...",
+                "suggest": "建议..."
+            },{
+                "guidelinesId": 4,
+                "guidelinesTargetId": 7,
+                "guidelinesTargetScoreId": 3,
+                "id": 1,
+                "problem": "问题...",
+                "suggest": "建议..."
+            }
+        ],
+        "waterQualityData": "{\"v\":0.09}",
+        "waterQualityLevel": "不健康",
+        "waterSystemMap": "http://lupic.cdn.bcebos.com/20191203/3016757112_14.jpg",
+        "year": "2020"
+    }
+}
